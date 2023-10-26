@@ -1,0 +1,37 @@
+[
+    {
+        "id": "808bc521c24ae1fe",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "e125736a178fa4ed",
+        "type": "uibuilder",
+        "z": "808bc521c24ae1fe",
+        "name": "",
+        "topic": "",
+        "url": "Sample",
+        "fwdInMessages": false,
+        "allowScripts": false,
+        "allowStyles": false,
+        "copyIndex": true,
+        "templateFolder": "blank",
+        "extTemplate": "",
+        "showfolder": false,
+        "reload": false,
+        "sourceFolder": "src",
+        "deployedVersion": "6.6.0",
+        "showMsgUib": false,
+        "title": "",
+        "descr": "",
+        "x": 250,
+        "y": 100,
+        "wires": [
+            [],
+            []
+        ]
+    }
+]
